@@ -1,5 +1,4 @@
 import React from "react";
-import './HeaderArea.css';
 import {AiOutlineSearch, AiFillHome, AiOutlineWallet} from 'react-icons/ai';
 import {MdOndemandVideo} from 'react-icons/md';
 import {FaRegFlag, FaUsers, FaBell, FaFacebookMessenger, FaPlusCircle} from 'react-icons/fa';

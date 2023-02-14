@@ -3,8 +3,6 @@ import { AiFillFileImage } from "react-icons/ai";
 import { FaAngleDown, FaFacebookMessenger, FaFontAwesomeFlag, FaGrin, FaUserFriends,FaMedrt, FaRegThumbsUp, FaCommentAlt, FaRegShareSquare, FaSearch } from "react-icons/fa";
 import { MdMoreHoriz, MdVideoCall } from "react-icons/md";
 
-
-import './MainArea.css';
 function MainArea(){
     
     return(

@@ -1,5 +1,4 @@
 import React from 'react'
-import './LoginPage.css'
 import {Link} from 'react-router-dom';
 
 function LoginPage() {
@@ -23,7 +22,7 @@ function LoginPage() {
                 <Link to="/HeaderArea">Log In</Link>
             </button>
             <div className="forget">
-                <a href="forget">Forgot password?</a>
+                <Link>Forgot password?</Link>
                 <br></br>
             </div>
             
@@ -37,7 +36,7 @@ function LoginPage() {
             <p></p>
             <br></br>
             <div className='page'>
-                <a href='createpage'>Create a Page</a> for a celebrity, brand or business.
+                <Link href='createpage'>Create a Page</Link> for a celebrity, brand or business.
             </div>
     </div>
   </div>
