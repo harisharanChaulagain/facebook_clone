@@ -13,7 +13,7 @@ function MainArea(){
         <div className="Main">
             <div className="Rside">
                 <div className="Profile">
-                    <img src="/images/1.jpg" alto="dp" style={{height:"40px", padding:"1rem"}}/>
+                    <img src="/images/1.jpg" alt="dp" style={{height:"40px", padding:"1rem"}}/>
                     <br></br>
                     Neymar Jr.
                 </div>
@@ -39,19 +39,19 @@ function MainArea(){
                 </div>
                 <br></br>
                 <div className="Profiles">
-                    <img src="/images/1.jpg" alto="logo" style={{height: "75px", padding:"1rem"}}/>
+                    <img src="/images/1.jpg" alt="logo" style={{height: "75px", padding:"1rem"}}/>
                     Neymar Jr.
                 </div>
                 <div className="Profiles">
-                    <img src="/images/2.jpeg" alto="logo" style={{height: "75px", padding:"1rem"}}/>
+                    <img src="/images/2.jpeg" alt="logo" style={{height: "75px", padding:"1rem"}}/>
                     Mbappe
                 </div>
                 <div className="Profiles">
-                    <img src="/images/3.jpeg" alto="logo" style={{height: "75px", padding:"1rem"}}/>
+                    <img src="/images/3.jpeg" alt="logo" style={{height: "75px", padding:"1rem"}}/>
                     Ronaldo
                 </div>
                 <div className="Profiles">
-                    <img src="/images/4.jpeg" alto="logo" style={{height: "75px", padding:"1rem"}}/>
+                    <img src="/images/4.jpeg" alt="logo" style={{height: "75px", padding:"1rem"}}/>
                     Kaka
                 </div>
                 <div className="Pross">
@@ -135,7 +135,7 @@ function MainArea(){
                     <div className="Posted">
                         <div className="Poster">
                             <div className="Learn">
-                            <img src="/images/1.jpg" alto="dp" style={{height:"100px", padding:"1rem"}}/>
+                            <img src="/images/1.jpg" alt="dp" style={{height:"100px", padding:"1rem"}}/>
                             
                                  Hari
                                  <div className="update">Updated his cover image.</div>
@@ -166,7 +166,7 @@ function MainArea(){
                         <br></br>
                         <div className="FacebookImg">
                         
-                        <img src="/images/3.jpeg" alto="logo" style={{height:"35px", padding:"1rem"}}/>
+                        <img src="/images/3.jpeg" alt="logo" style={{height:"35px", padding:"1rem"}}/>
                     
                         </div>
                         <div className="Comment">
@@ -184,7 +184,7 @@ function MainArea(){
                         <br></br>
                         <div className="FacebookImg">
                         
-                        <img src="/images/4.jpeg" alto="logo" style={{height:"35px", padding:"1rem"}}/>
+                        <img src="/images/4.jpeg" alt="logo" style={{height:"35px", padding:"1rem"}}/>
                     
                         </div>
                         <div className="Comment">
@@ -202,7 +202,7 @@ function MainArea(){
                         <br></br>
                         <div className="FacebookImg">
                         
-                        <img src="/images/4.jpeg" alto="logo" style={{height:"35px", padding:"1rem"}}/>
+                        <img src="/images/4.jpeg" alt="logo" style={{height:"35px", padding:"1rem"}}/>
                     
                         </div>
                         <div className="Comment">
@@ -245,19 +245,19 @@ function MainArea(){
 
                 <div className="concise">
                     <div className="Profilee">
-                    <img src="/images/1.jpg" alto="logo" style={{height:"35px", padding:"1rem"}}/>
+                    <img src="/images/1.jpg" alt="logo" style={{height:"35px", padding:"1rem"}}/>
                         Ram
                     </div>
                     <div className="Profilee">
-                    <img src="/images/2.jpeg" alto="logo" style={{height:"35px", padding:"1rem"}}/>
+                    <img src="/images/2.jpeg" alt="logo" style={{height:"35px", padding:"1rem"}}/>
                         Shyam
                     </div>
                     <div className="Profilee">
-                    <img src="/images/3.jpeg" alto="logo" style={{height:"35px", padding:"1rem"}}/>
+                    <img src="/images/3.jpeg" alt="logo" style={{height:"35px", padding:"1rem"}}/>
                         Gopal
                     </div>
                     <div className="Profilee">
-                        <img src="/images/4.jpeg" alto="logo" style={{height:"35px", padding:"1rem"}}/>
+                        <img src="/images/4.jpeg" alt="logo" style={{height:"35px", padding:"1rem"}}/>
                         Manoj
                     </div>
 

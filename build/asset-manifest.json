@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/NCPHSC/facebook_clone.git/static/css/main.264acef1.css",
+    "main.js": "/NCPHSC/facebook_clone.git/static/js/main.b7b11692.js",
+    "static/js/787.a46efa3f.chunk.js": "/NCPHSC/facebook_clone.git/static/js/787.a46efa3f.chunk.js",
+    "index.html": "/NCPHSC/facebook_clone.git/index.html",
+    "main.264acef1.css.map": "/NCPHSC/facebook_clone.git/static/css/main.264acef1.css.map",
+    "main.b7b11692.js.map": "/NCPHSC/facebook_clone.git/static/js/main.b7b11692.js.map",
+    "787.a46efa3f.chunk.js.map": "/NCPHSC/facebook_clone.git/static/js/787.a46efa3f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.264acef1.css",
+    "static/js/main.b7b11692.js"
+  ]
+}
